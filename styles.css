@@ -1,0 +1,22 @@
+nav{
+    width: 20%;
+    float: left;
+}
+
+
+.section-container{
+    float:left;
+    width: 60%;
+}
+
+aside{
+    width: 20%;
+    float: right;
+}
+
+footer{
+    clear: both;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
